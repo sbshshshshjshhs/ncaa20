@@ -1,0 +1,1396 @@
+{
+  "bowlGames" : [
+    "Rose Bowl",
+    "Orange Bowl",
+    "Sugar Bowl",
+    "Fiesta Bowl",
+    "Cotton Bowl",
+    "Peach Bowl",
+    "Citrus Bowl",
+    "Gator Bowl",
+    "Outback Bowl",
+    "Sun Bowl",
+    "Alamo Bowl",
+    "Liberty Bowl",
+    "Independence Bowl",
+    "Holiday Bowl",
+    "Music City Bowl",
+    "Pinstripe Bowl",
+    "Maple Leaf Bowl",
+    "Aztec Bowl",
+    "YouTube TV Bowl",
+    "Indeed Bowl",
+    "Allbirds Bowl",
+    "Sidengo Bowl",
+    "OwnLocal Bowl",
+    "Typelaunch Bowl",
+    "HireMonk Bowl",
+    "Peloton Bowl",
+    "Hopdoddy Bowl",
+    "YETI Bowl",
+    null,
+    false,
+    false,
+    null
+  ],
+  "conferences" : [
+    {
+      "confName" : "SEC",
+      "confFullName" : "SEC",
+      "confPrestige" : "95",
+      "confTeams" : [
+        {
+          "name" : "Alabama",
+          "abbreviation" : "BAMA",
+          "prestige" : "95",
+          "hexColor" : "#9E1B32",
+          "state" : "Alabama",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "67",
+            "ratOff" : "95",
+            "cumulativePrestige" : "95",
+            "ratDef" : "95",
+            "ratPot" : "95",
+            "ratTalent" : "95",
+            "ratDiscipline" : "95",
+            "ratOvr" : "95",
+            "name" : "Nick Saban",
+            "contractYear" : "2"
+          },
+          "rival" : "AUB"
+        },
+        {
+          "name" : "Georgia",
+          "abbreviation" : "UGA",
+          "prestige" : "92",
+          "state" : "Georgia",
+          "hexColor" : "#BA0C2F",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "43",
+            "ratOff" : "95",
+            "cumulativePrestige" : "95",
+            "ratDef" : "95",
+            "ratPot" : "95",
+            "ratTalent" : "95",
+            "ratDiscipline" : "95",
+            "ratOvr" : "95",
+            "name" : "Kirby Smart",
+            "contractYear" : "2"
+          },
+          "rival" : "FLA"
+        },
+        {
+          "name" : "Florida",
+          "abbreviation" : "FLA",
+          "hexColor" : "#0021A5",
+          "prestige" : "90",
+          "state" : "Florida",
+          "rival" : "UGA"
+        },
+        {
+          "name" : "Tennessee",
+          "abbreviation" : "TENN",
+          "hexColor" : "#FF8200",
+          "prestige" : "45",
+          "state" : "Tennessee",
+          "rival" : "UK"
+        },
+        {
+          "name" : "Texas A&M",
+          "abbreviation" : "TAMU",
+          "hexColor" : "#500000",
+          "prestige" : "75",
+          "state" : "Texas",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "53",
+            "ratOff" : "90",
+            "cumulativePrestige" : "90",
+            "ratDef" : "90",
+            "ratPot" : "90",
+            "ratTalent" : "90",
+            "ratDiscipline" : "90",
+            "ratOvr" : "90",
+            "name" : "Jimbo Fisher",
+            "contractYear" : "2"
+          },
+          "rival" : "MIZZ"
+        },
+        {
+          "name" : "LSU",
+          "abbreviation" : "LSU",
+          "prestige" : "93",
+          "hexColor" : "#461D7C",
+          "state" : "Louisiana",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "57",
+            "ratOff" : "90",
+            "cumulativePrestige" : "90",
+            "ratDef" : "90",
+            "ratPot" : "90",
+            "ratTalent" : "90",
+            "ratDiscipline" : "90",
+            "ratOvr" : "90",
+            "name" : "Ed Orgeron",
+            "contractYear" : "2"
+          },
+          "rival" : "ARK"
+        },
+        {
+          "name" : "Arkansas",
+          "abbreviation" : "ARK",
+          "hexColor" : "#9D2235",
+          "prestige" : "65",
+          "state" : "Arkansas",
+          "rival" : "LSU"
+        },
+        {
+          "name" : "Missouri",
+          "abbreviation" : "MIZZ",
+          "hexColor" : "#F1B82D",
+          "prestige" : "50",
+          "state" : "Missouri",
+          "rival" : "TAMU"
+        },
+        {
+          "name" : "Kentucky",
+          "abbreviation" : "UK",
+          "hexColor" : "#0033A0",
+          "prestige" : "40",
+          "state" : "Kentucky",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "51",
+            "ratOff" : "90",
+            "cumulativePrestige" : "90",
+            "ratDef" : "90",
+            "ratPot" : "90",
+            "ratTalent" : "90",
+            "ratDiscipline" : "90",
+            "ratOvr" : "90",
+            "name" : "Mark Stoops",
+            "contractYear" : "2"
+          },
+          "rival" : "TENN"
+        },
+        {
+          "name" : "Auburn",
+          "abbreviation" : "AUB",
+          "hexColor" : "#0C2340",
+          "prestige" : "85",
+          "state" : "Alabama",
+          "rival" : "ALA"
+        }
+      ]
+    },
+    {
+      "confName" : "B1G",
+      "confFullName" : "Big Ten",
+      "confPrestige" : "90",
+      "confTeams" : [
+        {
+          "name" : "Ohio State",
+          "abbreviation" : "OSU",
+          "hexColor" : "#BB0000",
+          "prestige" : "94",
+          "state" : "Ohio",
+          "headCoach" : {
+            "age" : "40",
+            "name" : "Ryan Day"
+          },
+          "rival" : "MICH"
+        },
+        {
+          "name" : "Michigan",
+          "abbreviation" : "MICH",
+          "hexColor" : "#00274C",
+          "prestige" : "84",
+          "state" : "Michigan",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "55",
+            "ratOff" : "95",
+            "cumulativePrestige" : "95",
+            "ratDef" : "95",
+            "ratPot" : "95",
+            "ratTalent" : "95",
+            "ratDiscipline" : "95",
+            "ratOvr" : "95",
+            "name" : "Jim Harbaugh",
+            "contractYear" : "2"
+          },
+          "rival" : "OSU"
+        },
+        {
+          "name" : "Michigan State",
+          "abbreviation" : "MSU",
+          "hexColor" : "#18453B",
+          "prestige" : "75",
+          "state" : "Michigan",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "63",
+            "ratOff" : "85",
+            "cumulativePrestige" : "85",
+            "ratDef" : "85",
+            "ratPot" : "85",
+            "ratTalent" : "85",
+            "ratDiscipline" : "85",
+            "ratOvr" : "85",
+            "name" : "Mark Dantonio",
+            "contractYear" : "2"
+          },
+          "rival" : "PSU"
+        },
+        {
+          "name" : "Wisconsin",
+          "abbreviation" : "WIS",
+          "hexColor" : "#C5050C",
+          "prestige" : "92",
+          "state" : "Wisconsin",
+          "rival" : "MINN"
+        },
+        {
+          "name" : "Minnesota",
+          "abbreviation" : "MINN",
+          "hexColor" : "#7A0019",
+          "prestige" : "60",
+          "state" : "Minnesota",
+          "rival" : "WIS"
+        },
+        {
+          "name" : "Purdue",
+          "abbreviation" : "PUR",
+          "hexColor" : "#CEB888",
+          "prestige" : "60",
+          "state" : "Indiana",
+          "rival" : "NW"
+        },
+        {
+          "name" : "Iowa",
+          "abbreviation" : "IOWA",
+          "hexColor" : "#FFCD00",
+          "prestige" : "70",
+          "state" : "Iowa",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "63",
+            "ratOff" : "90",
+            "cumulativePrestige" : "90",
+            "ratDef" : "90",
+            "ratPot" : "90",
+            "ratTalent" : "90",
+            "ratDiscipline" : "90",
+            "ratOvr" : "90",
+            "name" : "Kirk Ferentz",
+            "contractYear" : "2"
+          },
+          "rival" : "NEB"
+        },
+        {
+          "name" : "Northwestern",
+          "abbreviation" : "NW",
+          "prestige" : "60",
+          "hexColor" : "#4E2A84",
+          "state" : "Illinois",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "44",
+            "ratOff" : "85",
+            "cumulativePrestige" : "85",
+            "ratDef" : "85",
+            "ratPot" : "85",
+            "ratTalent" : "85",
+            "ratDiscipline" : "85",
+            "ratOvr" : "85",
+            "name" : "Pat Fitzgerald",
+            "contractYear" : "2"
+          },
+          "rival" : "PUR"
+        },
+        {
+          "name" : "Penn State",
+          "abbreviation" : "PSU",
+          "hexColor" : "#041E42",
+          "prestige" : "80",
+          "state" : "Pennsylvania",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "47",
+            "ratOff" : "85",
+            "cumulativePrestige" : "85",
+            "ratDef" : "85",
+            "ratPot" : "85",
+            "ratTalent" : "85",
+            "ratDiscipline" : "85",
+            "ratOvr" : "85",
+            "name" : "James Franklin",
+            "contractYear" : "2"
+          },
+          "rival" : "MSU"
+        },
+        {
+          "name" : "Nebraska",
+          "abbreviation" : "NEB",
+          "hexColor" : "#E41C38",
+          "prestige" : "60",
+          "state" : "Nebraska",
+          "headCoach" : {
+            "age" : "44",
+            "name" : "Scott Frost"
+          },
+          "rival" : "IOWA"
+        }
+      ]
+    },
+    {
+      "confName" : "ACC",
+      "confFullName" : "ACC",
+      "confPrestige" : "75",
+      "confTeams" : [
+        {
+          "name" : "Virginia",
+          "abbreviation" : "UVA",
+          "hexColor" : "#232D4B",
+          "prestige" : "35",
+          "state" : "Virginia",
+          "rival" : "VT"
+        },
+        {
+          "name" : "Boston College",
+          "abbreviation" : "BC",
+          "hexColor" : "#98002E",
+          "prestige" : "35",
+          "state" : "Massachusetts",
+          "rival" : "SYR"
+        },
+        {
+          "name" : "Clemson",
+          "abbreviation" : "CLEM",
+          "hexColor" : "#F56600",
+          "prestige" : "95",
+          "state" : "South Carolina",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "49",
+            "ratOff" : "95",
+            "cumulativePrestige" : "95",
+            "ratDef" : "95",
+            "ratPot" : "95",
+            "ratTalent" : "95",
+            "ratDiscipline" : "95",
+            "ratOvr" : "95",
+            "name" : "Dabo Swinney",
+            "contractYear" : "2"
+          },
+          "rival" : "FSU"
+        },
+        {
+          "name" : "Miami",
+          "abbreviation" : "MIA",
+          "hexColor" : "#F47321",
+          "prestige" : "75",
+          "state" : "Florida",
+          "rival" : "UNC"
+        },
+        {
+          "name" : "North Carolina",
+          "abbreviation" : "UNC",
+          "hexColor" : "#7BAFD4",
+          "prestige" : "60",
+          "state" : "North Carolina",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "67",
+            "ratOff" : "85",
+            "cumulativePrestige" : "85",
+            "ratDef" : "85",
+            "ratPot" : "85",
+            "ratTalent" : "85",
+            "ratDiscipline" : "85",
+            "ratOvr" : "85",
+            "name" : "Mack Brown",
+            "contractYear" : "2"
+          },
+          "rival" : "MIA"
+        },
+        {
+          "name" : "Georgia Tech",
+          "abbreviation" : "GT",
+          "hexColor" : "#B3A369",
+          "prestige" : "40",
+          "state" : "Georgia",
+          "rival" : "PITT"
+        },
+        {
+          "name" : "Virginia Tech",
+          "abbreviation" : "VT",
+          "hexColor" : "#630031",
+          "presitge" : "45",
+          "state" : "Virginia",
+          "rival" : "UVA"
+        },
+        {
+          "name" : "Pittsburgh",
+          "abbreviation" : "PITT",
+          "hexColor" : "#003594",
+          "prestige" : "50",
+          "state" : "Pennsylvania",
+          "rival" : "GT"
+        },
+        {
+          "name" : "Syracuse",
+          "abbreviation" : "SYR",
+          "hexColor" : "#D44500",
+          "prestige" : "65",
+          "state" : "New York",
+          "rival" : "BC"
+        },
+        {
+          "name" : "Florida State",
+          "abbreviation" : "FSU",
+          "hexColor" : "#782F40",
+          "prestige" : "65",
+          "state" : "Florida",
+          "rival" : "CLEM"
+        }
+      ]
+    },
+    {
+      "confName" : "B12",
+      "confFullName" : "Big 12",
+      "confPrestige" : "80",
+      "confTeams" : [
+        {
+          "name" : "Oklahoma",
+          "abbreviation" : "OKLA",
+          "hexColor" : "#841617",
+          "prestige" : "94",
+          "state" : "Oklahoma",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "35",
+            "ratOff" : "95",
+            "cumulativePrestige" : "95",
+            "ratDef" : "95",
+            "ratPot" : "95",
+            "ratTalent" : "95",
+            "ratDiscipline" : "95",
+            "ratOvr" : "95",
+            "name" : "Lincoln Riley",
+            "contractYear" : "2"
+          },
+          "rival" : "TEX"
+        },
+        {
+          "name" : "Texas",
+          "abbreviation" : "TEX",
+          "hexColor" : "#BF5700",
+          "prestige" : "90",
+          "state" : "Texas",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "43",
+            "ratOff" : "90",
+            "cumulativePrestige" : "90",
+            "ratDef" : "90",
+            "ratPot" : "90",
+            "ratTalent" : "90",
+            "ratDiscipline" : "90",
+            "ratOvr" : "90",
+            "name" : "Tom Herman",
+            "contractYear" : "2"
+          },
+          "rival" : "OKLA"
+        },
+        {
+          "name" : "Iowa State",
+          "abbreviation" : "ISU",
+          "hexColor" : "#C8102E",
+          "prestige" : "65",
+          "state" : "Iowa",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "39",
+            "ratOff" : "85",
+            "cumulativePrestige" : "85",
+            "ratDef" : "85",
+            "ratPot" : "85",
+            "ratTalent" : "85",
+            "ratDiscipline" : "85",
+            "ratOvr" : "85",
+            "name" : "Matt Campbell",
+            "contractYear" : "2"
+          },
+          "rival" : "WVU"
+        },
+        {
+          "name" : "TCU",
+          "abbreviation" : "TCU",
+          "hexColor" : "#4D1979",
+          "prestige" : "55",
+          "state" : "Texas",
+          "rival" : "BAY"
+        },
+        {
+          "name" : "Baylor",
+          "abbreviation" : "BAY",
+          "hexColor" : "#003015",
+          "prestige" : "55",
+          "state" : "Texas",
+          "rival" : "TCU"
+        },
+        {
+          "name" : "Oklahoma St",
+          "abbreviation" : "OKST",
+          "hexColor" : "#FF7300",
+          "prestige" : "55",
+          "state" : "Oklahoma",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "51",
+            "ratOff" : "90",
+            "cumulativePrestige" : "90",
+            "ratDef" : "90",
+            "ratPot" : "90",
+            "ratTalent" : "90",
+            "ratDiscipline" : "90",
+            "ratOvr" : "90",
+            "name" : "Mike Gundy",
+            "contractYear" : "2"
+          },
+          "rival" : "TTU"
+        },
+        {
+          "name" : "Kansas St",
+          "abbreviation" : "KSU",
+          "hexColor" : "#512888",
+          "prestige" : "45",
+          "state" : "Kansas",
+          "rival" : "KU"
+        },
+        {
+          "name" : "West Virginia",
+          "abbreviation" : "WVU",
+          "hexColor" : "#002855",
+          "prestige" : "75",
+          "state" : "West Virginia",
+          "rival" : "ISU"
+        },
+        {
+          "name" : "Kansas",
+          "abbreviation" : "KU",
+          "hexColor" : "#0051BA",
+          "prestige" : "26",
+          "state" : "Kansas",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "65",
+            "ratOff" : "90",
+            "cumulativePrestige" : "90",
+            "ratDef" : "90",
+            "ratPot" : "90",
+            "ratTalent" : "90",
+            "ratDiscipline" : "90",
+            "ratOvr" : "90",
+            "name" : "Les Miles",
+            "contractYear" : "2"
+          },
+          "rival" : "KSU"
+        },
+        {
+          "name" : "Texas Tech",
+          "abbreviation" : "TTU",
+          "hexColor" : "#CC0000",
+          "prestige" : "45",
+          "state" : "Texas",
+          "rival" : "OKST"
+        }
+      ]
+    },
+    {
+      "confName" : "PAC",
+      "confFullName" : "Pac 12",
+      "confPrestige" : "80",
+      "confTeams" : [
+        {
+          "name" : "California",
+          "abbreviation" : "CAL",
+          "hexColor" : "#003262",
+          "prestige" : "60",
+          "state" : "California",
+          "rival" : "STAN"
+        },
+        {
+          "name" : "Oregon",
+          "abbreviation" : "ORE",
+          "hexColor" : "#154733",
+          "prestige" : "88",
+          "state" : "Oregon",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2018",
+            "age" : "49",
+            "ratOff" : "95",
+            "cumulativePrestige" : "95",
+            "ratDef" : "95",
+            "ratPot" : "95",
+            "ratTalent" : "95",
+            "ratDiscipline" : "95",
+            "ratOvr" : "90",
+            "name" : "Mario Cristobal",
+            "contractYear" : "2"
+          },
+          "rival" : "ORST"
+        },
+        {
+          "name" : "UCLA",
+          "abbreviation" : "UCLA",
+          "hexColor" : "#2D68C4",
+          "prestige" : "45",
+          "state" : "California",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "55",
+            "ratOff" : "90",
+            "cumulativePrestige" : "90",
+            "ratDef" : "90",
+            "ratPot" : "90",
+            "ratTalent" : "90",
+            "ratDiscipline" : "90",
+            "ratOvr" : "90",
+            "name" : "Chip Kelly",
+            "contractYear" : "2"
+          },
+          "rival" : "USC"
+        },
+        {
+          "name" : "USC",
+          "abbreviation" : "USC",
+          "hexColor" : "#990000",
+          "prestige" : "70",
+          "state" : "California",
+          "rival" : "UCLA"
+        },
+        {
+          "name" : "Washington",
+          "abbreviation" : "WASH",
+          "hexColor" : "#4B2E83",
+          "prestige" : "83",
+          "state" : "Washington",
+          "headCoach" : {
+            "age" : "54",
+            "name" : "Chris Petersen"
+          },
+          "rival" : "WSU"
+        },
+        {
+          "name" : "Arizona",
+          "abbreviation" : "ARIZ",
+          "hexColor" : "#CC0033",
+          "prestige" : "50",
+          "state" : "Arizona",
+          "rival" : "ASU"
+        },
+        {
+          "name" : "Stanford",
+          "abbreviation" : "STAN",
+          "hexColor" : "#8C1515",
+          "prestige" : "65",
+          "state" : "California",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "46",
+            "ratOff" : "90",
+            "cumulativePrestige" : "90",
+            "ratDef" : "90",
+            "ratPot" : "90",
+            "ratTalent" : "90",
+            "ratDiscipline" : "90",
+            "ratOvr" : "90",
+            "name" : "David Shaw",
+            "contractYear" : "2"
+          },
+          "rival" : "CAL"
+        },
+        {
+          "name" : "Washington State",
+          "abbreviation" : "WSU",
+          "hexColor" : "#981E32",
+          "prestige" : "80",
+          "state" : "Washington",
+          "headCoach" : {
+            "age" : "58",
+            "name" : "Mike Leach"
+          },
+          "rival" : "WASH"
+        },
+        {
+          "name" : "Colorado",
+          "abbreviation" : "COL",
+          "hexColor" : "#CFB87C",
+          "prestige" : "50",
+          "state" : "Colorado",
+          "rival" : "ORE"
+        },
+        {
+          "name" : "Arizona State",
+          "abbreviation" : "ASU",
+          "hexColor" : "#8C1D40",
+          "prestige" : "55",
+          "state" : "Arizona",
+          "headCoach" : {
+            "age" : "64",
+            "name" : "Herm Edwards"
+          },
+          "rival" : "ARIZ"
+        }
+      ]
+    },
+    {
+      "confName" : "NAC",
+      "confFullName" : "North American",
+      "confPrestige" : "75",
+      "confTeams" : [
+        {
+          "name" : "Notre Dame",
+          "abbreviation" : "ND",
+          "hexColor" : "#0C2340",
+          "prestige" : "92",
+          "state" : "Indiana",
+          "rival" : "BYU"
+        },
+        {
+          "name" : "BYU",
+          "abbreviation" : "BYU",
+          "hexColor" : "#002E5D",
+          "prestige" : "40",
+          "state" : "Utah",
+          "rival" : "ND"
+        },
+        {
+          "name" : "Army",
+          "abbreviation" : "ARMY",
+          "hexColor" : "#D4BF91",
+          "prestige" : "60",
+          "state" : "New York",
+          "rival" : "NAVY"
+        },
+        {
+          "name" : "Navy",
+          "abbreviation" : "NAVY",
+          "hexColor" : "#00205B",
+          "prestige" : "26",
+          "state" : "Maryland",
+          "rival" : "ARMY"
+        },
+        {
+          "name" : "Illinois",
+          "abbreviation" : "ILL",
+          "hexColor" : "#E84A27",
+          "prestige" : "40",
+          "state" : "Illinois",
+          "rival" : "IU"
+        },
+        {
+          "name" : "Indiana",
+          "abbreviation" : "IU",
+          "hexColor" : "#990000",
+          "prestige" : "40",
+          "state" : "Indiana",
+          "rival" : "ILL"
+        },
+        {
+          "name" : "Duke",
+          "abbreviation" : "DUKE",
+          "hexColor" : "#003087",
+          "prestige" : "40",
+          "state" : "North Carolina",
+          "rival" : "UL"
+        },
+        {
+          "name" : "Louisville",
+          "abbreviation" : "UL",
+          "hexColor" : "#AD0000",
+          "prestige" : "45",
+          "state" : "Kentucky",
+          "rival" : "DUKE"
+        },
+        {
+          "name" : "Maryland",
+          "abbreviation" : "MAR",
+          "hexColor" : "#E03A3E",
+          "prestige" : "40",
+          "state" : "Maryland",
+          "rival" : "RUT"
+        },
+        {
+          "name" : "Rutgers",
+          "abbreviation" : "RUT",
+          "hexColor" : "#CC0033",
+          "prestige" : "40",
+          "state" : "New Jersey",
+          "rival" : "MAR"
+        }
+      ]
+    },
+    {
+      "confName" : "GCC",
+      "confFullName" : "Gulf Coast",
+      "confPrestige" : "25",
+      "confTeams" : [
+        {
+          "name" : "Ole Miss",
+          "abbreviation" : "MISS",
+          "hexColor" : "#CE1126",
+          "prestige" : "45",
+          "state" : "Mississippi",
+          "rival" : "MSST"
+        },
+        {
+          "name" : "Mississippi St",
+          "abbreviation" : "MSST",
+          "hexColor" : "#660000",
+          "prestige" : "60",
+          "state" : "Mississippi",
+          "rival" : "MISS"
+        },
+        {
+          "name" : "Vanderbilt",
+          "abbreviation" : "VAN",
+          "hexColor" : "#000000",
+          "prestige" : "40",
+          "state" : "Tennessee",
+          "rival" : "SC"
+        },
+        {
+          "name" : "South Carolina",
+          "abbreviation" : "SC",
+          "hexColor" : "#73000A",
+          "prestige" : "60",
+          "state" : "South Carolina",
+          "rival" : "VAN"
+        },
+        {
+          "name" : "Utah",
+          "abbreviation" : "UTAH",
+          "hexColor" : "#CC0000",
+          "prestige" : "40",
+          "state" : "Utah",
+          "rival" : "COL"
+        },
+        {
+          "name" : "Oregon State",
+          "abbreviation" : "ORST",
+          "hexColor" : "#DC4405",
+          "prestige" : "40",
+          "state" : "Oregon",
+          "rival" : "ORE"
+        },
+        {
+          "name" : "NC State",
+          "abbreviation" : "NCST",
+          "hexColor" : "#CC0000",
+          "prestige" : "50",
+          "state" : "North Carolina",
+          "rival" : "WAKE"
+        },
+        {
+          "name" : "Wake Forest",
+          "abbreviation" : "WAKE",
+          "hexColor" : "#9E7E38",
+          "prestige" : "40",
+          "state" : "North Carolina",
+          "rival" : "NCST"
+        },
+        {
+          "name" : "Rice",
+          "abbreviation" : "RICE",
+          "hexColor" : "#00205B",
+          "prestige" : "15",
+          "state" : "Texas",
+          "rival" : "UTEP"
+        },
+        {
+          "name" : "UTEP",
+          "abbreviation" : "UTEP",
+          "hexColor" : "#FF8200",
+          "prestige" : "15",
+          "state" : "Texas",
+          "rival" : "RICE"
+        }
+      ]
+    },
+    {
+      "confName" : "AAC",
+      "confFullName" : "American Athletic",
+      "confPrestige" : "25",
+      "confTeams" : [
+        {
+          "name" : "Central Florida",
+          "abbreviation" : "UCF",
+          "hexColor" : "#BA9B37",
+          "prestige" : "85",
+          "state" : "Florida",
+          "rival" : "USF"
+        },
+        {
+          "name" : "South Florida",
+          "abbreviation" : "USF",
+          "hexColor" : "#006747",
+          "prestige" : "55",
+          "state" : "Florida",
+          "rival" : "UCF"
+        },
+        {
+          "name" : "Houston",
+          "abbreviation" : "HOU",
+          "hexColor" : "#C8102E",
+          "prestige" : "60",
+          "state" : "Texas",
+          "rival" : "SMU"
+        },
+        {
+          "name" : "SMU",
+          "abbreviation" : "SMU",
+          "hexColor" : "#0033A0",
+          "prestige" : "15",
+          "state" : "Texas",
+          "rival" : "HOU"
+        },
+        {
+          "name" : "Cincinnati",
+          "abbreviation" : "UC",
+          "hexColor" : "#E00122",
+          "prestige" : "30",
+          "state" : "Ohio",
+          "rival" : "MEM"
+        },
+        {
+          "name" : "Memphis",
+          "abbreviation" : "MEM",
+          "hexColor" : "#003087",
+          "prestige" : "30",
+          "state" : "Tennessee",
+          "rival" : "UC"
+        },
+        {
+          "name" : "Connecticut",
+          "abbreviation" : "CONN",
+          "hexColor" : "#000E2F",
+          "prestige" : "20",
+          "state" : "Connecticut",
+          "rival" : "TEM"
+        },
+        {
+          "name" : "Temple",
+          "abbreviation" : "TEM",
+          "hexColor" : "#9D2235",
+          "prestige" : "30",
+          "state" : "Pennsylvania",
+          "rival" : "CONN"
+        },
+        {
+          "name" : "Tulane",
+          "abbreviation" : "TUL",
+          "hexColor" : "#006747",
+          "prestige" : "20",
+          "state" : "Louisiana",
+          "rival" : "ECU"
+        },
+        {
+          "name" : "East Carolina",
+          "abbreviation" : "ECU",
+          "hexColor" : "#592A8A",
+          "prestige" : "20",
+          "state" : "North Carolina",
+          "rival" : "TUL"
+        }
+      ]
+    },
+    {
+      "confName" : "MWC",
+      "confFullName" : "Mountain West",
+      "confPrestige" : "25",
+      "confTeams" : [
+        {
+          "name" : "Air Force",
+          "abbreviation" : "AF",
+          "hexColor" : "#003087",
+          "prestige" : "15",
+          "state" : "Colorado",
+          "rival" : "CSU"
+        },
+        {
+          "name" : "Colorado State",
+          "abbreviation" : "CSU",
+          "hexColor" : "#1E4D2B",
+          "prestige" : "25",
+          "state" : "Colorado",
+          "rival" : "AF"
+        },
+        {
+          "name" : "Fresno State",
+          "abbreviation" : "FRES",
+          "hexColor" : "#DB0032",
+          "prestige" : "25",
+          "state" : "California",
+          "rival" : "SDSU"
+        },
+        {
+          "name" : "San Diego State",
+          "abbreviation" : "SDSU",
+          "hexColor" : "#A6192E",
+          "prestige" : "25",
+          "state" : "California",
+          "rival" : "FRES"
+        },
+        {
+          "name" : "UNLV",
+          "abbreviation" : "UNLV",
+          "hexColor" : "#CF0A2C",
+          "prestige" : "55",
+          "state" : "Nevada",
+          "rival" : "NEV"
+        },
+        {
+          "name" : "Nevada",
+          "abbreviation" : "NEV",
+          "hexColor" : "#003366",
+          "prestige" : "35",
+          "state" : "Nevada",
+          "rival" : "UNLV"
+        },
+        {
+          "name" : "Boise State",
+          "abbreviation" : "BSU",
+          "hexColor" : "#D64309",
+          "prestige" : "55",
+          "state" : "Idaho",
+          "rival" : "WYO"
+        },
+        {
+          "name" : "Wyoming",
+          "abbreviation" : "WYO",
+          "hexColor" : "#492F24",
+          "prestige" : "15",
+          "state" : "Wyoming",
+          "rival" : "BSU"
+        },
+        {
+          "name" : "New Mexico",
+          "abbreviation" : "UNM",
+          "hexColor" : "#BA0C2F",
+          "prestige" : "5",
+          "state" : "New Mexico",
+          "rival" : "HAW"
+        },
+        {
+          "name" : "Hawaii",
+          "abbreviation" : "HAW",
+          "hexColor" : "#024731",
+          "prestige" : "5",
+          "state" : "Hawaii",
+          "rival" : "UNM"
+        }
+      ]
+    },
+    {
+      "confName" : "MAC",
+      "confFullName" : "Mid American",
+      "confPrestige" : "25",
+      "confTeams" : [
+        {
+          "name" : "Bowling Green",
+          "abbreviation" : "BGU",
+          "hexColor" : "#FE5000",
+          "prestige" : "15",
+          "state" : "Ohio",
+          "rival" : "TOL"
+        },
+        {
+          "name" : "Toledo",
+          "abbreviation" : "TOL",
+          "hexColor" : "#15397F",
+          "prestige" : "5",
+          "state" : "Ohio",
+          "rival" : "BGU"
+        },
+        {
+          "name" : "Northern Illinois",
+          "abbreviation" : "NIU",
+          "hexColor" : "#BA0C2F",
+          "prestige" : "5",
+          "state" : "Illinois",
+          "rival" : "BALL"
+        },
+        {
+          "name" : "Ball State",
+          "abbreviation" : "BALL",
+          "hexColor" : "#BA0C2F",
+          "prestige" : "5",
+          "state" : "Indiana",
+          "rival" : "NIU"
+        },
+        {
+          "name" : "Akron",
+          "abbreviation" : "AKR",
+          "hexColor" : "#041E42",
+          "prestige" : "15",
+          "state" : "Ohio",
+          "rival" : "KENT"
+        },
+        {
+          "name" : "Kent State",
+          "abbreviation" : "KENT",
+          "hexColor" : "#002664",
+          "prestige" : "5",
+          "state" : "Ohio",
+          "rival" : "AKR"
+        },
+        {
+          "name" : "Buffalo",
+          "abbreviation" : "UB",
+          "hexColor" : "#005BBB",
+          "prestige" : "5",
+          "state" : "New York",
+          "rival" : "OHIO"
+        },
+        {
+          "name" : "Ohio",
+          "abbreviation" : "OHIO",
+          "hexColor" : "#00694E",
+          "prestige" : "15",
+          "state" : "Ohio",
+          "rival" : "UB"
+        },
+        {
+          "name" : "Marshall",
+          "abbreviation" : "MRS",
+          "hexColor" : "#00B140",
+          "prestige" : "15",
+          "state" : "West Virginia",
+          "rival" : "LIB"
+        },
+        {
+          "name" : "Liberty",
+          "abbreviation" : "LIB",
+          "hexColor" : "#990000",
+          "prestige" : "5",
+          "state" : "Virginia",
+          "rival" : "MRS"
+        }
+      ]
+    },
+    {
+      "confName" : "IVY",
+      "confFullName" : "Ivy League",
+      "confPrestige" : "25",
+      "confTeams" : [
+        {
+          "name" : "Harvard",
+          "abbreviation" : "HARV",
+          "hexColor" : "#A41034",
+          "prestige" : "5",
+          "state" : "Massachusetts",
+          "rival" : "YALE"
+        },
+        {
+          "name" : "Yale",
+          "abbreviation" : "YALE",
+          "hexColor" : "#00356B",
+          "prestige" : "5",
+          "state" : "Connecticut",
+          "rival" : "HARV"
+        },
+        {
+          "name" : "Princeton",
+          "abbreviation" : "PRIN",
+          "hexColor" : "#FF671F",
+          "prestige" : "5",
+          "state" : "New Jersey",
+          "rival" : "PENN"
+        },
+        {
+          "name" : "Penn",
+          "abbreviation" : "PENN",
+          "hexColor" : "#011F5B",
+          "prestige" : "15",
+          "state" : "Pennsylvania",
+          "rival" : "PRIN"
+        },
+        {
+          "name" : "Brown",
+          "abbreviation" : "BRWN",
+          "hexColor" : "#4E3629",
+          "prestige" : "5",
+          "state" : "Rhode Island",
+          "rival" : "DART"
+        },
+        {
+          "name" : "Dartmouth",
+          "abbreviation" : "DART",
+          "hexColor" : "#046A38",
+          "prestige" : "5",
+          "state" : "New Hampshire",
+          "rival" : "BRWN"
+        },
+        {
+          "name" : "Cornell",
+          "abbreviation" : "CORN",
+          "hexColor" : "#B31B1B",
+          "prestige" : "5",
+          "state" : "New York",
+          "rival" : "COLU"
+        },
+        {
+          "name" : "Columbia",
+          "abbreviation" : "COLU",
+          "hexColor" : "#9BCBEB",
+          "prestige" : "5",
+          "state" : "New York",
+          "rival" : "CORN"
+        },
+        {
+          "name" : "MIT",
+          "abbreviation" : "MIT",
+          "hexColor" : "#A31F34",
+          "prestige" : "25",
+          "state" : "Massachusetts",
+          "rival" : "JHU"
+        },
+        {
+          "name" : "Johns Hopkins",
+          "abbreviation" : "JHU",
+          "hexColor" : "#002D72",
+          "prestige" : "5",
+          "state" : "Maryland",
+          "rival" : "MIT"
+        }
+      ]
+    },
+    {
+      "confName" : "TCC",
+      "confFullName" : "Transcontinental",
+      "confPrestige" : "5",
+      "confTeams" : [
+        {
+          "name" : "William & Mary",
+          "abbreviation" : "WM",
+          "hexColor" : "#115740",
+          "prestige" : "5",
+          "state" : "Virginia",
+          "rival" : "RICH"
+        },
+        {
+          "name" : "Richmond",
+          "abbreviation" : "RICH",
+          "hexColor" : "#990000",
+          "prestige" : "5",
+          "state" : "Virginia",
+          "rival" : "WM"
+        },
+        {
+          "name" : "Western Ontario",
+          "abbreviation" : "UWO",
+          "hexColor" : "#4F2683",
+          "prestige" : "5",
+          "state" : "New York",
+          "rival" : "LAVL"
+        },
+        {
+          "name" : "Laval",
+          "abbreviation" : "LAVL",
+          "hexColor" : "#ED1B2D",
+          "prestige" : "5",
+          "state" : "Vermont",
+          "rival" : "UWO"
+        },
+        {
+          "name" : "Calgary",
+          "abbreviation" : "CALG",
+          "hexColor" : "#E30C00",
+          "prestige" : "15",
+          "state" : "Montana",
+          "rival" : "NDSU"
+        },
+        {
+          "name" : "North Dakota State",
+          "abbreviation" : "NDSU",
+          "hexColor" : "#0A5640",
+          "prestige" : "25",
+          "state" : "North Dakota",
+          "rival" : "CALG"
+        },
+        {
+          "name" : "Texas State",
+          "abbreviation" : "TXST",
+          "hexColor" : "#501214",
+          "prestige" : "15",
+          "state" : "Texas",
+          "rival" : "TEC"
+        },
+        {
+          "name" : "Monterrey Tech",
+          "abbreviation" : "TEC",
+          "hexColor" : "#000066",
+          "prestige" : "5",
+          "state" : "Texas",
+          "rival" : "TXST"
+        },
+        {
+          "name" : "Northern Iowa",
+          "abbreviation" : "UNI",
+          "hexColor" : "#4B116F",
+          "prestige" : "75",
+          "state" : "Iowa",
+          "rival" : "DRAK"
+        },
+        {
+          "name" : "Drake",
+          "abbreviation" : "DRAK",
+          "hexColor" : "#004477",
+          "prestige" : "15",
+          "state" : "Iowa",
+          "headCoach" : {
+            "contractLength" : "10",
+            "startYear" : "2017",
+            "age" : "32",
+            "ratOff" : "95",
+            "cumulativePrestige" : "95",
+            "ratDef" : "95",
+            "ratPot" : "95",
+            "ratTalent" : "95",
+            "ratDiscipline" : "95",
+            "ratOvr" : "95",
+            "name" : "Jorge González",
+            "contractYear" : "2"
+          },
+          "rival" : "UNI"
+        }
+      ]
+    }
+  ]
+}
